@@ -22,7 +22,7 @@ dist/
 ### Installation
 
 ```shell
-npm install @chenfengyuan/vue-carousel vue
+npm install @chenfengyuan/vue-carousel vue vue-template-compiler
 ```
 
 In browser:
